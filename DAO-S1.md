@@ -1,5 +1,5 @@
-## DAO: Decentralized Autonomous Organization
-# Let’s Break it down
+# DAO: Decentralized Autonomous Organization
+### Let’s Break it down
 
 ## Decentralized
 As denoted in the name, DAOs are decentralized entities of operation. But what does that mean?
