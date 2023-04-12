@@ -1,7 +1,7 @@
 ## DAO: Decentralized Autonomous Organization
-#Let’s Break it down
+# Let’s Break it down
 
-##Decentralized
+## Decentralized
 As denoted in the name, DAOs are decentralized entities of operation. But what does that mean?
 This means they have no central authority, but rather rely on the authority of consensus (majority
 agreement) in some form, by design.
