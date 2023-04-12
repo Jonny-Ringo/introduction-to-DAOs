@@ -45,9 +45,11 @@ input), then automatically executed.
 A body of people organized with a particular purpose, such as a business, society,
 association, or group. Even though DAOs are typically international, everyone
 associated with it is working together for a common purpose in an organized manner.
-But, Why A DAO?
+
+## But, Why A DAO?
 So why use a DAO? What makes it desirable over a traditional centralized organization such
 as a bank, or corporation?
+
 The answer is freedom of choice over what happens across the organization/network itself.
 Every person who participates can choose/approve actions taken that affect it. We approve
 or disapprove of these actions in an effort to be part of the evolving growth of this new
@@ -64,3 +66,5 @@ An alternative view of why to use the DAO structure is simplicity and low-cost b
 business perspective, there can be many upsides to using this technology. DAOs can take the
 place of corporate-type structures that are complex and expensive, making the process
 cheaper and more intuitive.
+
+
