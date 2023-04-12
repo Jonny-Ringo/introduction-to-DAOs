@@ -1,4 +1,4 @@
-####DAO: Decentralized Autonomous Organization
+## DAO: Decentralized Autonomous Organization
 #Let’s Break it down
 
 ##Decentralized
